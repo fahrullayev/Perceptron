@@ -1,5 +1,12 @@
 Sodda perseptron asosida tibbiy ko'rsatkichlar bo'yicha bashoratlash
 ---------------
+Dastur Perceptron modeliga asoslangan.
+---------------
+Dasturni o'rnatish :
+```
+
+```
+
 Confusion Matrix
 --
 ![Figure_1](https://github.com/user-attachments/assets/aa05575b-334d-4273-9e15-f8214fc4ec73)
